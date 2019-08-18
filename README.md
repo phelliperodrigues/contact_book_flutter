@@ -1,5 +1,8 @@
 # agenda_contatos
 
+![](contact.gif)
+
+
 A new Flutter application.
 
 ## Getting Started

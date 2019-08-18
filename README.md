@@ -1,6 +1,6 @@
 # agenda_contatos
 
-![](contact.gif | width=100)
+![](contact.gif)
 
 
 A new Flutter application.

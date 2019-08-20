@@ -1,6 +1,8 @@
 # agenda_contatos
 
-![](contact.gif)
+<p align="center">
+  <img width="300" height="600" src="contact.gif">
+</p>
 
 
 A new Flutter application.
